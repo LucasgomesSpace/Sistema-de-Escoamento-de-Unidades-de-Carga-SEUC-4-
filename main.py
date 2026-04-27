@@ -1,1 +1,4 @@
+from EntradadeDadoseAjusteTermico import ajusteTermico
+from ClassificacaodeZonaseProtocolodeTravamento import classificacaoZonas
 
+ajusteTermico.leitura()
